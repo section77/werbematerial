@@ -82,7 +82,7 @@ in pkgs.stdenv.mkDerivation rec {
   installPhase = ''
     mkdir -p $out
 
-    rsync -r --exclude=default.nix --exclude=.gitignore . $out
+    rsync -r --exclude=default.nix --exclude=README.org --exclude=.travis.yml --exclude=.gitignore . $out
 
     node ${werbematerial-gh-pages.indexer}/indexer.js $out $out
 
