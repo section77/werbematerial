@@ -585,4 +585,4 @@ var e=arguments[3];Object.defineProperty(exports,"__esModule",{value:!0});var n=
 },{"../Affjax/index.js":"IjAr","../Affjax.ResponseFormat/index.js":"QSsR","../Control.Bind/index.js":"7VcT","../Control.Monad.Except/index.js":"Fye2","../Data.Either/index.js":"B2JL","../Data.Functor/index.js":"+0AE","../Data.List.NonEmpty/index.js":"XAY7","../Data.Maybe/index.js":"5mN7","../Effect/index.js":"oTWB","../Effect.Aff/index.js":"I7lu","../Effect.Class/index.js":"dWtH","../Effect.Console/index.js":"+3bp","../Effect.Exception/index.js":"0OCW","../Foreign/index.js":"pu1p","../Foreign.Generic/index.js":"+gsP","../Items/index.js":"rrlf","../React.Basic.DOM/index.js":"HoOL","../Web.DOM.NonElementParentNode/index.js":"HGyN","../Web.HTML/index.js":"UQRJ","../Web.HTML.HTMLDocument/index.js":"EU5r","../Web.HTML.Window/index.js":"o+50","../WebApp.App/index.js":"ouT0"}],"Qoqr":[function(require,module,exports) {
 require("./output/WebApp/index.js").main();
 },{"./output/WebApp/index.js":"+GEL"}]},{},["Qoqr"], null)
-//# sourceMappingURL=/webapp.82d6caf8.js.map
+//# sourceMappingURL=/werbematerial/webapp.82d6caf8.js.map
