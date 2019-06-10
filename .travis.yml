@@ -1,0 +1,15 @@
+language: nix
+script: nix-build
+
+cache:
+  directories:
+    - /nix/store
+
+deploy:
+  provider: pages
+  skip-cleanup: true
+  local-dir: result/
+  github-token: $GITHUB_TOKEN
+  keep-history: true
+  on:
+    branch: master
