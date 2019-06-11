@@ -1,7 +1,6 @@
+{ pkgs ? import <nixpkgs> {}, public-url ? "/" }:
 with builtins;
 let
-
-  pkgs = import <nixpkgs> { };
 
   inkscape-export = pkgs.writeScript "inkscape-export" ''
 
@@ -59,7 +58,7 @@ let
     repo = "werbematerial-gh-pages";
     rev = "d93a37e0551f9e1134f411ac8af8c5a0b83f8eb3";
     sha256 = "117fj7ww5fmd40szcwnc2wcs7q9rng9ccvv0a44kfi3zw6shjzym";
-    }) { inherit pkgs; public-url = "/werbematerial"; };
+    }) { inherit pkgs public-url; };
 
 in pkgs.stdenv.mkDerivation rec {
   src = pkgs.lib.cleanSource ./.;

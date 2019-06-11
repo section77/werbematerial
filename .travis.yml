@@ -1,6 +1,6 @@
 language: nix
 nix: 2.2.2
-script: nix-build
+script: nix-build --argstr public-url '/werbematerial'
 
 cache:
   directories:
