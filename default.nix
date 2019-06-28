@@ -3,41 +3,40 @@ with builtins;
 let
 
   inkscape-export = pkgs.writeScript "inkscape-export" ''
-
     TYPE=$1
     SRC=$2
     ARGS=$3
 
-    BASENAME=$(basename $SRC)
+    BASENAME=$(basename "$SRC")
     NAME_WITHOUT_EXT="''${BASENAME%%.*}"
-    DST="$(dirname $SRC)/$NAME_WITHOUT_EXT.$TYPE"
+    DST="$(dirname "$SRC")/$NAME_WITHOUT_EXT.$TYPE"
 
     if ! [ -f "$DST" ]; then
       echo "generate $DST"
-      inkscape --export-$TYPE=$DST $ARGS $SRC
+      inkscape --export-$TYPE="$DST" $ARGS "$SRC"
     else
       echo "$DST exists - skipping"
     fi
   '';
 
   svgToPDF = pkgs.writeScript "svg-to-pdf" ''
-    ${inkscape-export} "pdf" $1
+    ${inkscape-export} "pdf" "$1"
   '';
 
   svgToPNG = pkgs.writeScript "svg-to-png" ''
-    ${inkscape-export} "png" $1 "--export-dpi=300"
+    ${inkscape-export} "png" "$1" "--export-dpi=300"
   '';
 
   pdfToPNG = pkgs.writeScript "pdf-to-png" ''
     SRC=$1
 
-    BASENAME=$(basename $SRC)
+    BASENAME=$(basename "$SRC")
     NAME_WITHOUT_EXT="''${BASENAME%%.*}"
-    DST="$(dirname $SRC)/$NAME_WITHOUT_EXT.png"
+    DST="$(dirname "$SRC")/$NAME_WITHOUT_EXT.png"
 
     if ! [ -f "$DST" ]; then
       echo "generate $DST"
-      convert -density 300 $SRC $DST
+      convert -density 300 "$SRC" "$DST"
     else
       echo "$DST exists - skipping"
     fi
@@ -47,17 +46,17 @@ let
   createPreviewImage = pkgs.writeScript "create-preview-image" ''
     SRC=$1
 
-    NAME=$(basename $SRC)
-    DST="$(dirname $SRC)/gh-pages-preview-$NAME"
+    NAME=$(basename "$SRC")
+    DST="$(dirname "$SRC")/gh-pages-preview-$NAME"
 
-    convert -resize 300 $SRC $DST
+    convert -resize 300 "$SRC" "$DST"
   '';
 
   werbematerial-gh-pages = import (pkgs.fetchFromGitHub {
     owner = "section77";
     repo = "werbematerial-gh-pages";
-    rev = "d93a37e0551f9e1134f411ac8af8c5a0b83f8eb3";
-    sha256 = "117fj7ww5fmd40szcwnc2wcs7q9rng9ccvv0a44kfi3zw6shjzym";
+    rev = "5287bc1030a7bcae908eddefa9aa34734b3b49ec";
+    sha256 = "1zj1m387bmli18vpl3p3mbx9gda2hn96c6fdxj2ydwzb00xjbm6y";
     }) { inherit pkgs public-url; };
 
 in pkgs.stdenv.mkDerivation rec {
