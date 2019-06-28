@@ -7,6 +7,10 @@ script:
   - cachix use j-keck
   - nix-build --argstr public-url '/werbematerial'
 
+cache:
+  directories:
+    - /nix/store
+
 deploy:
   provider: pages
   skip-cleanup: true
