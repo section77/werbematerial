@@ -1,1 +1,22 @@
-* werbematerial
+* [[https://section77.github.io/werbematerial/][werbematerial]]
+
+** notes
+
+*** Font
+
+Wir verwenden die Font [[https://fonts.google.com/specimen/Roboto][Roboto]].
+
+**** Installation Linux
+
+  - download the font from https://fonts.google.com/download?family=Roboto
+  - copy the files to =~/.local/share/fonts=
+
+
+**** Installation Windows
+
+  - download the font from https://fonts.google.com/download?family=Roboto
+  - Doppelklick
+
+
+
+
