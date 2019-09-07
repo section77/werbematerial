@@ -36,7 +36,7 @@ let
 
     if ! [ -f "$DST" ]; then
       echo "generate $DST"
-      convert -density 300 "$SRC" "$DST"
+      convert -density 300 "$SRC" -append "$DST"
     else
       echo "$DST exists - skipping"
     fi
@@ -55,9 +55,9 @@ let
   werbematerial-gh-pages = import (pkgs.fetchFromGitHub {
     owner = "section77";
     repo = "werbematerial-gh-pages";
-    rev = "5287bc1030a7bcae908eddefa9aa34734b3b49ec";
-    sha256 = "1zj1m387bmli18vpl3p3mbx9gda2hn96c6fdxj2ydwzb00xjbm6y";
-    }) { inherit pkgs public-url; };
+    rev = "cdbe5a384e4e72fdf2e7249e999e1821ab612b07";
+    sha256 = "0m0lvbl4fyf78z9wdcba96vyqpshj03i3ikv5an4drarbhxil37d";
+    }) { inherit public-url; };
 
 in pkgs.stdenv.mkDerivation rec {
   src = pkgs.lib.cleanSource ./.;
