@@ -4,7 +4,7 @@ nix: 2.2.2
 
 script:
   - nix-env -iA cachix -f https://cachix.org/api/v1/install
-  - cachix use j-keck
+  - cachix use werbematerial-gh-pages
   - nix-build --argstr public-url '/werbematerial'
 
 cache:
