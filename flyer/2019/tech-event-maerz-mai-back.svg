@@ -1,0 +1,462 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="2019-03-05-flyer-back-a6.svg"
+   inkscape:version="0.92.1 r15371"
+   id="svg2022"
+   version="1.1"
+   viewBox="0 0 148 105"
+   height="105mm"
+   width="148mm"
+   inkscape:export-filename="/home/j/prj/s77/tech-events/planung/2019-drei-in-reie-mit-werbung/plakat/werbematerial/tech-event/2019-03-05-flyer-back.svg.png"
+   inkscape:export-xdpi="171.04401"
+   inkscape:export-ydpi="171.04401">
+  <defs
+     id="defs2016">
+    <linearGradient
+       id="linearGradient2561"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#008000;stop-opacity:1;"
+         offset="0"
+         id="stop2559" />
+    </linearGradient>
+    <linearGradient
+       id="myGrad"
+       x1="0"
+       x2="1754"
+       y1="0"
+       y2="0"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         stop-color="#0084b0"
+         offset="0"
+         id="stop54181" />
+      <stop
+         stop-color="#00a356"
+         offset="1"
+         id="stop54183" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3384">
+      <stop
+         style="stop-color:#008000;stop-opacity:1;"
+         offset="0"
+         id="stop3380" />
+      <stop
+         style="stop-color:#008000;stop-opacity:0;"
+         offset="1"
+         id="stop3382" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(1.0948046,0,0,1,-5.3044088,-81.304591)"
+       inkscape:collect="always"
+       xlink:href="#linearGradient3384"
+       id="linearGradient2593-7"
+       x1="53.368233"
+       y1="259.58228"
+       x2="218.1304"
+       y2="259.20428"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3384"
+       id="linearGradient2671"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.0851867,0,0,1,22.234176,-27.027238)"
+       x1="53.368233"
+       y1="259.58228"
+       x2="218.1304"
+       y2="259.20428" />
+  </defs>
+  <sodipodi:namedview
+     inkscape:window-maximized="0"
+     inkscape:window-y="293"
+     inkscape:window-x="439"
+     inkscape:window-height="1176"
+     inkscape:window-width="1916"
+     showgrid="false"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="263.52642"
+     inkscape:cx="288.24871"
+     inkscape:zoom="2.8"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:measure-start="382.5,418.214"
+     inkscape:measure-end="382.5,418.571" />
+  <metadata
+     id="metadata2019">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-192)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.23936844px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16791338px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-288.12662"
+       y="22.881872"
+       id="text5757"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan5755"
+         x="-288.12662"
+         y="22.881872"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32.23936844px;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif';fill:#2b0000;stroke-width:0.16791338px"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.11968422px;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif';fill:#2b0000;stroke-width:0.16791338px"
+           id="tspan5761">section</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.38845062px;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif';fill:#2b0000;stroke-width:0.16791338px"
+           id="tspan5759">77</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.51822519px;line-height:1.25;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.18847638"
+       x="-285.43677"
+       y="20.665352"
+       id="text37826"
+       transform="rotate(-90)"><tspan
+         sodipodi:role="line"
+         id="tspan37824"
+         x="-285.43677"
+         y="23.778156"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';stroke-width:0.18847638" /><tspan
+         sodipodi:role="line"
+         x="-285.43677"
+         y="28.175938"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';stroke-width:0.18847638"
+         id="tspan37832">Wasserstr. 22a im Kulturförderverein Stud e.V.</tspan><tspan
+         sodipodi:role="line"
+         x="-285.43677"
+         y="32.573719"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';stroke-width:0.18847638"
+         id="tspan37828">77652 Offenburg</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.70242119;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 35.145916,296.72057 V 193.25663"
+       id="path48954-0"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.97358298px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.23908998px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="39.766365"
+       y="220.65816"
+       id="text2927"><tspan
+         sodipodi:role="line"
+         x="39.766365"
+         y="220.65816"
+         id="tspan2849"
+         style="stroke-width:0.23908998px"><tspan
+           x="39.766365"
+           y="220.65816"
+           style="font-size:2.72578478px;stroke-width:0.23908998px"
+           id="tspan2845"
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0">Wir sind seit 2014 ein regionaler Chaostreff und Hackspace des</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="39.766365"
+         y="224.43951"
+         id="tspan2855"
+         style="stroke-width:0.23908998px"><tspan
+           x="39.766365"
+           y="224.43951"
+           style="font-size:2.72578478px;stroke-width:0.23908998px"
+           id="tspan2851"
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0">Chaos Computer Club (CCC) in Offenburg. </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="39.766365"
+         y="228.22087"
+         id="tspan2861"
+         style="stroke-width:0.23908998px"><tspan
+           x="39.766365"
+           y="228.22087"
+           style="font-size:2.72578478px;stroke-width:0.23908998px"
+           id="tspan2857"
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0">Wir treffen uns regelmäßig jeden zweiten Dienstag ab 20 Uhr</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="39.766365"
+         y="232.00221"
+         id="tspan2867"
+         style="stroke-width:0.23908998px"><tspan
+           x="39.766365"
+           y="232.00221"
+           style="font-size:2.72578478px;stroke-width:0.23908998px"
+           id="tspan2863"
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0">und freuen uns immer, wenn technisch interessierte Menschen </tspan></tspan><tspan
+         sodipodi:role="line"
+         x="39.766365"
+         y="235.78357"
+         id="tspan2873"
+         style="stroke-width:0.23908998px"><tspan
+           x="39.766365"
+           y="235.78357"
+           style="font-size:2.72578478px;stroke-width:0.23908998px"
+           id="tspan2869"
+           dx="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0">bei uns durchschauen.</tspan></tspan><tspan
+         sodipodi:role="line"
+         x="39.766365"
+         y="240.35226"
+         id="tspan2877"
+         style="stroke-width:0.23908998px" /><tspan
+         sodipodi:role="line"
+         x="39.766365"
+         y="244.06924"
+         id="tspan2883"
+         style="stroke-width:0.23908998px" /><tspan
+         sodipodi:role="line"
+         x="39.766365"
+         y="247.78622"
+         id="tspan2887"
+         style="stroke-width:0.23908998px" /><tspan
+         sodipodi:role="line"
+         x="39.766365"
+         y="251.5032"
+         id="tspan2911"
+         style="stroke-width:0.23908998px" /><tspan
+         sodipodi:role="line"
+         x="39.766365"
+         y="255.22017"
+         id="tspan2917"
+         style="stroke-width:0.23908998px"><tspan
+           x="39.766365"
+           y="265.90558"
+           style="font-size:2.72578478px;stroke-width:0.23908998px"
+           id="tspan2913"
+           dx="0" /></tspan><tspan
+         sodipodi:role="line"
+         x="39.766365"
+         y="258.93716"
+         id="tspan2921"
+         style="stroke-width:0.23908998px" /><tspan
+         sodipodi:role="line"
+         x="39.766365"
+         y="262.65414"
+         id="tspan2925"
+         style="stroke-width:0.23908998px" /></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.73695058;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 148.6924,206.11636 H 34.806362"
+       id="path48954-0-3"
+       inkscape:connector-curvature="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3364"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.36790659,0,0,0.36790659,-24.812578,-206.83499)"><flowRegion
+         id="flowRegion3366"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';fill:#000000;fill-opacity:1"><rect
+           id="rect3368"
+           width="327"
+           height="30"
+           x="222"
+           y="1098.5197"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';fill:#000000;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara3370"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.33333397px;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif';fill:#000000;fill-opacity:1">section77.de</flowPara></flowRoot>    <flowRoot
+       transform="matrix(0.14762529,0,0,0.15512534,21.119535,267.29734)"
+       style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot884-1"
+       xml:space="preserve"><flowRegion
+         id="flowRegion886-2"
+         style="fill:#ffffff;fill-opacity:1"><rect
+           y="8.9589491"
+           x="122.97509"
+           height="37.755836"
+           width="569.97437"
+           id="rect888-7"
+           style="fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:29.33333397px;font-family:'TeX Gyre Bonum';-inkscape-font-specification:'TeX Gyre Bonum';fill:#ffffff;fill-opacity:1"
+         id="flowPara890-0">Tech-Event</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1001"
+       style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+         id="flowRegion1003"><rect
+           id="rect1005"
+           width="82.146156"
+           height="20.049938"
+           x="201.70671"
+           y="430.22366" /></flowRegion><flowPara
+         id="flowPara1007" /></flowRoot>    <g
+       id="g2631"
+       transform="matrix(0.69625047,0,0,0.70242124,1.3828993,88.29774)">
+      <rect
+         rx="0"
+         y="175.02997"
+         x="53.123383"
+         height="6.4954762"
+         width="150.58806"
+         id="rect9146-3-3-9-9-2"
+         style="opacity:1;fill:url(#linearGradient2593-7);fill-opacity:1;stroke:none;stroke-width:1.67709017;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:transform-center-x="48.442928"
+         inkscape:transform-center-y="0.40986205"
+         ry="3.2477381" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot884"
+         style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="matrix(0.21016633,0,0,0.22084375,31.065365,174.13319)"><flowRegion
+           style="fill:#ffffff;fill-opacity:1"
+           id="flowRegion886"><rect
+             style="fill:#ffffff;fill-opacity:1"
+             id="rect888"
+             width="569.97437"
+             height="37.755836"
+             x="122.97509"
+             y="8.9589491" /></flowRegion><flowPara
+           id="flowPara890"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.31559181px;font-family:'TeX Gyre Bonum';-inkscape-font-specification:'TeX Gyre Bonum';fill:#ffffff;fill-opacity:1">section77 e.V.</flowPara></flowRoot>    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2698-4-9"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:125%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.23908999,0,0,0.23908999,36.22873,50.173443)"><flowRegion
+         id="flowRegion2700-7-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans'"><rect
+           id="rect2702-6-6"
+           width="447.76712"
+           height="68.73262"
+           x="19"
+           y="952.51971"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans'" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.40066338px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans'"
+         id="flowPara8997-9">Jeden ersten Samstag im Monat veranstalten wir ein Tech-Event. </flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.40066338px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans'"
+         id="flowPara17591-2">Wie immer ist es <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.40066338px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans Bold'"
+   id="flowSpan24968-0">kostenfrei</flowSpan> und eine Anmeldung ist nicht nötig.</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.33333397px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans'"
+         id="flowPara3362-2" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.66666698px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans'"
+         id="flowPara3341-3" /></flowRoot>    <g
+       id="g2683"
+       transform="matrix(0.70242124,0,0,0.70242124,-17.184661,110.22792)">
+      <rect
+         rx="0"
+         y="229.30733"
+         x="80.148682"
+         height="6.4954762"
+         width="149.26514"
+         id="rect9146-3-3-9-9-2-7"
+         style="opacity:1;fill:url(#linearGradient2671);fill-opacity:1;stroke:none;stroke-width:1.6697073;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         inkscape:transform-center-x="48.442928"
+         inkscape:transform-center-y="0.40986205"
+         ry="3.2477381" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot884-3"
+         style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="matrix(0.20832002,0,0,0.22084375,58.284442,228.41054)"><flowRegion
+           style="fill:#ffffff;fill-opacity:1"
+           id="flowRegion886-6"><rect
+             style="fill:#ffffff;fill-opacity:1"
+             id="rect888-1"
+             width="569.97437"
+             height="37.755836"
+             x="122.97509"
+             y="8.9589491" /></flowRegion><flowPara
+           id="flowPara890-2"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.31559181px;font-family:'TeX Gyre Bonum';-inkscape-font-specification:'TeX Gyre Bonum';fill:#ffffff;fill-opacity:1">Tech-Event</flowPara></flowRoot>    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.29166651px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-119.0625"
+       y="369.57141"
+       id="text2731"><tspan
+         sodipodi:role="line"
+         id="tspan2729"
+         x="-119.0625"
+         y="374.2533"
+         style="stroke-width:0.26458332px" /><tspan
+         sodipodi:role="line"
+         x="-119.0625"
+         y="380.86789"
+         style="stroke-width:0.26458332px"
+         id="tspan2733" /></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot2807"
+       style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+         id="flowRegion2809"><rect
+           id="rect2811"
+           width="259.60919"
+           height="51.51778"
+           x="1369.7668"
+           y="712.91327" /></flowRegion><flowPara
+         id="flowPara2813" /></flowRoot>    <g
+       id="g4461"
+       transform="matrix(0.70242124,0,0,0.70242124,2.2232855,90.527927)">
+      <flowRoot
+         transform="matrix(0.26458333,0,0,0.26458333,-36.889021,146.59994)"
+         style="font-style:normal;font-weight:normal;font-size:20px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="flowRoot4393"
+         xml:space="preserve"><flowRegion
+           id="flowRegion4395"><rect
+             y="247.23293"
+             x="341.43155"
+             height="26.263985"
+             width="88.893433"
+             id="rect4397" /></flowRegion><flowPara
+           style="font-size:14.66666698px"
+           id="flowPara4399">Wenn du</flowPara></flowRoot>      <text
+         id="text4424"
+         y="223.09969"
+         x="53.576946"
+         style="font-style:normal;font-weight:normal;font-size:3.88055563px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:3.88055563px;stroke-width:0.26458332px"
+           y="223.09969"
+           x="53.576946"
+           id="tspan4422"
+           sodipodi:role="line">  • technisch interessiert bist</tspan><tspan
+           id="tspan4426"
+           style="font-size:3.88055563px;stroke-width:0.26458332px"
+           y="227.95038"
+           x="53.576946"
+           sodipodi:role="line">  • dich mit Anderen in der Region Offenburg austauschen möchtest</tspan><tspan
+           id="tspan4428"
+           style="font-size:3.88055563px;stroke-width:0.26458332px"
+           y="232.80107"
+           x="53.576946"
+           sodipodi:role="line">  • an irgendwelchen Projekten löten möchtest</tspan><tspan
+           id="tspan4430"
+           style="font-size:3.88055563px;stroke-width:0.26458332px"
+           y="237.65176"
+           x="53.576946"
+           sodipodi:role="line">  • Themen wie IT-Sicherheit, Datenschutz und Privatsphäre wichtig findest</tspan></text>
+      <text
+         id="text4434"
+         y="244.34792"
+         x="53.362831"
+         style="font-style:normal;font-weight:normal;font-size:5.29166651px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-size:3.88055563px;stroke-width:0.26458332px"
+           y="244.34792"
+           x="53.362831"
+           id="tspan4432"
+           sodipodi:role="line">dann bist du bei uns genau richtig und herzlich willkommen!</tspan></text>
+    </g>
+  </g>
+</svg>
