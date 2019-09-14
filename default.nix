@@ -52,11 +52,12 @@ let
     convert -resize 300 "$SRC" "$DST"
   '';
 
+  #werbematerial-gh-pages = import ../werbematerial-gh-pages {};
   werbematerial-gh-pages = import (pkgs.fetchFromGitHub {
     owner = "section77";
     repo = "werbematerial-gh-pages";
-    rev = "a053a61863bd069fbc1fb83fbf892172223cd9b2";
-    sha256 = "0hqff7m7ns99pw9dszlkqhhammcnbr9x0frsp72b3mdsjsa3w2v0";
+    rev = "d89bcb8e364c2390acb2ebfa215514e328d5ec93";
+    sha256 = "0zymdnhilaz5pc9brr2bjf42wv4821k2r08k6yl0m3966py1jwma";
     }) { inherit public-url; };
 
 in pkgs.stdenv.mkDerivation rec {
@@ -80,7 +81,7 @@ in pkgs.stdenv.mkDerivation rec {
   installPhase = ''
     mkdir -p $out
 
-    rsync -r --exclude=default.nix --exclude=README.org --exclude=.travis.yml --exclude=.gitignore . $out
+    rsync --times -r --exclude=default.nix --exclude=README.org --exclude=.travis.yml --exclude=.gitignore . $out
 
     node ${werbematerial-gh-pages.indexer}/indexer.js $out $out
 
