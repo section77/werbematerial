@@ -56,8 +56,8 @@ let
   werbematerial-gh-pages = import (pkgs.fetchFromGitHub {
     owner = "section77";
     repo = "werbematerial-gh-pages";
-    rev = "d89bcb8e364c2390acb2ebfa215514e328d5ec93";
-    sha256 = "0zymdnhilaz5pc9brr2bjf42wv4821k2r08k6yl0m3966py1jwma";
+    rev = "cc471b5d0d25b7b709125d4b49cbe9426f8b1d73";
+    sha256 = "0af8s4q2ir9ggd03hjf303vc36nr6312bdjbkpk1n08iw224352y";
     }) { inherit public-url; };
 
 in pkgs.stdenv.mkDerivation rec {
