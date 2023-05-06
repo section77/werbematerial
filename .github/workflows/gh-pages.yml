@@ -1,10 +1,11 @@
 ---
 name: GitHub Pages
 on:
-  permissions:
-    contents: write
   push:
     branches: [master]
+
+permissions:
+  contents: write
 
 jobs:
   gh-pages:
