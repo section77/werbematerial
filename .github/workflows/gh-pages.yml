@@ -1,6 +1,8 @@
 ---
 name: GitHub Pages
 on:
+  permissions:
+    contents: write
   push:
     branches: [master]
 
