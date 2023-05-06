@@ -4,12 +4,11 @@ on:
   push:
     branches: [master]
 
-permissions:
-  contents: write
-
 jobs:
   gh-pages:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v3
       - uses: cachix/install-nix-action@v20
